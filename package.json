@@ -16,7 +16,7 @@
     "adal-angular": "^1.0.17",
     "axios": "^0.18.0",
     "lodash": "^4.17.10",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "vue-media": "^1.1.1",
     "vuex-persistedstate": "^2.5.4"
   },
